@@ -403,8 +403,8 @@ export const projects = [
       inotebookphoto,
     tags: ["React Js", "Express JS", "MoongoDB", "Node JS","Bootstrap"],
     category: "web app",
-    github: "https://inotebook-6pk4.onrender.com",
-    webapp: "https://github.com/Princebhan/iNoteBook",
+    github: "https://github.com/Princebhan/iNoteBook",
+    webapp: "https://inotebook-6pk4.onrender.com",
   },
   // {
   //   id: 6,
