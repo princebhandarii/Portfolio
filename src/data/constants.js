@@ -5,23 +5,25 @@ import foodphoto from "./food.png"
 import inotebookphoto from "./iNoteBook.png"
 import newsappphoto from "./newsapp.png"
 import schollphoto from "./school.png"
-import stockphoto from "./school.png"
 import stockphotos from "./stock.png"
 import textphoto from "./textutilities.png"
+import cv from "./PRINCE-CV.png"
+import school from "./schoollogo.jpeg"
 export const Bio = {
   name: "Prince Bhandari",
   roles: [
     "Web Developer",
+    "MERN Developer",
     "Programmer",
     "Web Designer",
-    "MERN Developer",
+   
    
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Princebhan",
   resume:
-    "https://drive.google.com/file/d/1eBB8NJ0Dwt5lgRcijg4GiGzeQ4W-lLBE/view?usp=drive_link",
+   cv,
   linkedin: "#",
   twitter: "https://twitter.com/princeb71562338",
   insta: "https://www.instagram.com/prince_.022/",
@@ -257,7 +259,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.famd1-2.fna.fbcdn.net/v/t39.30808-6/300778917_498959045573941_4138127946937342480_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ri0F3NA9xDMAX-FnNKT&_nc_ht=scontent.famd1-2.fna&oh=00_AfClrQhzshlQLb8628lo_LpCzdW3WB9xpdPoW7OzkVKPbQ&oe=656DDE25",
+    img: school,
     school: "N.V DHAMANWALA GUJARATI MEDIUM SCHOOL,SURAT",
     date: "MAY-2021",
     grade: "77.2%",
@@ -266,7 +268,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.famd1-2.fna.fbcdn.net/v/t39.30808-6/300778917_498959045573941_4138127946937342480_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ri0F3NA9xDMAX-FnNKT&_nc_ht=scontent.famd1-2.fna&oh=00_AfClrQhzshlQLb8628lo_LpCzdW3WB9xpdPoW7OzkVKPbQ&oe=656DDE25",
+    img: school,
     school: "N.V DHAMANWALA GUJARATI MEDIUM SCHOOL,SURAT",
     date: "March-2019",
     grade: "74.5%",
@@ -358,7 +360,7 @@ export const projects = [
       // "https://private-user-images.githubusercontent.com/112156035/286943743-89980e2f-7893-463b-be4a-940ebce6e42a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEzNTA5NzMsIm5iZiI6MTcwMTM1MDY3MywicGF0aCI6Ii8xMTIxNTYwMzUvMjg2OTQzNzQzLTg5OTgwZTJmLTc4OTMtNDYzYi1iZTRhLTk0MGViY2U2ZTQyYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEzMFQxMzI0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMWU2OGYwMWY4MjE1MDQ5Nzg2NmE0OGYyNDFlMGQ4ZTBmZDgwYjZkMTk2ZmQzMDU2NTE2YTViZDc4OWUzZWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Rtf2TXo488AFMgK-tKN83VE4vyNFh3mg6utqBBfw2FI",
       stockphotos,
     tags: ["VB.NET","Guna Framework"],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/Princebhan/stock_market/",
     webapp: "https://github.com/Princebhan/stock_market/",
   },
@@ -372,7 +374,7 @@ export const projects = [
       // "https://private-user-images.githubusercontent.com/112156035/286945883-010ead4c-75b4-47cd-847c-bbac7961f272.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEzNTE0MDgsIm5iZiI6MTcwMTM1MTEwOCwicGF0aCI6Ii8xMTIxNTYwMzUvMjg2OTQ1ODgzLTAxMGVhZDRjLTc1YjQtNDdjZC04NDdjLWJiYWM3OTYxZjI3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEzMFQxMzMxNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmIzM2RjM2RiOWNiN2E3MzI4NDU0NTgyZDExYzhmMDc5ZDMwOWFjODZiMWNmMjIyMDdlMDIyNmJkMzI0NDM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NWlyFMHxh6ePxQw-6buNr-ft-06VWLx55DE_YSNigMM",
       schollphoto,
     tags: ["ASP.NET","Bootstrap Template"],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/Princebhan/College_managements/",
     webapp: "https://github.com/Princebhan/College_managements/",
   },
@@ -401,7 +403,7 @@ export const projects = [
       inotebookphoto,
     tags: ["React Js", "Express JS", "MoongoDB", "Node JS","Bootstrap"],
     category: "web app",
-    github: "https://github.com/Princebhan/iNoteBook",
+    github: "https://inotebook-6pk4.onrender.com",
     webapp: "https://github.com/Princebhan/iNoteBook",
   },
   // {
