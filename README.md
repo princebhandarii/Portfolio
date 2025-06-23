@@ -1,2 +1,2 @@
 # Link of portfolio👇👇👇
-https://portfolio-0cgx.onrender.com/
+https://princebhandari.netlify.app/
