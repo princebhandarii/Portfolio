@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.e76fb4f9.js",
+    "static/media/streamflix.png": "/static/media/streamflix.ee0075999a921528b33f.png",
+    "static/media/newsapp.png": "/static/media/newsapp.37750808387a58dcbc87.png",
+    "static/media/food.png": "/static/media/food.791145889a4f32f30b53.png",
+    "static/media/PRINCE-CV.jpg": "/static/media/PRINCE-CV.2f6431d48cc727526d2f.jpg",
+    "static/media/iNoteBook.png": "/static/media/iNoteBook.4908ffefba96657968f8.png",
+    "static/media/HeroImage.jpeg": "/static/media/HeroImage.3303a3b9df9ee976df70.jpeg",
+    "static/media/dice_game.png": "/static/media/dice_game.d962f907b6a6f072133f.png",
+    "static/media/textutilities.png": "/static/media/textutilities.9381d9334da9ef60dbb3.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.e76fb4f9.js.map": "/static/js/main.e76fb4f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.e76fb4f9.js"
+  ]
+}
